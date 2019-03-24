@@ -4,3 +4,9 @@
 
 * MDK
 	* [使用Makefile编译MDK工程](https://github.com/tanghammer/note/blob/master/%E4%BD%BF%E7%94%A8Makefile%E7%BC%96%E8%AF%91MDK%E5%B7%A5%E7%A8%8B.md "使用Makefile编译MDK工程")
+
+* S3C2440裸机开发
+	* [linux上jlink调试](https://github.com/tanghammer/mini2440_peripherals/blob/master/sdram/doc.md "linux上jlink调试")
+
+* 硬件知识
+	* [SPI总线介绍](https://github.com/tanghammer/note/blob/master/SPI%E4%BB%8B%E7%BB%8D.md)
