@@ -1,3 +1,5 @@
+* C基础
+	* [关键字volatile](https://github.com/tanghammer/note/blob/master/%E5%85%B3%E4%BA%8E%E5%85%B3%E9%94%AE%E5%AD%97volatile%E7%9A%84%E7%90%86%E8%A7%A3.md)
 
 * 其它
 	* [Markdown github风格语法](https://github.com/tanghammer/note/blob/master/Markdown%20github%E9%A3%8E%E6%A0%BC%E8%AF%AD%E6%B3%95.md "Markdown Github风格语法")
