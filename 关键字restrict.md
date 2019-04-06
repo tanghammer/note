@@ -67,6 +67,7 @@ int foo(int* a, int* b)
 `restrict`关键字只能修饰[object](https://en.cppreference.com/w/c/language/object)类型的指针（例如`int restrict *p`、`float (* restrict foo)(void)`都是错误的用法）。`restrict`仅用于修饰左值(lvalue)。例如使用它强制转换指针或者修饰函数返回值都是错误的用法。
 
 解释下2个名词：
+
 **object：**
 在C语言中，对象是执行环境中的数据存储区域，其内容可以表示值(当解释为具有特定类型时,值是对象内容的含义)。每个对象有如下特征：
 
